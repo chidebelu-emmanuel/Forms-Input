@@ -41,7 +41,7 @@ body{
 }
 
 .description{
-    border-radius: 20px;clear: ;
+    border-radius: 20px;
     height: 30px;
 }
 
@@ -69,3 +69,4 @@ body{
     border-radius: 20px;
     margin: 90px;
 }
+
