@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(assets/images/ai\ image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+    
+    h1{
+    font-family: sans-serif;
+    color: rgb(230, 138, 17);
+    text-align: center;
+    }
+
+    h2{
+    font-family: sans-serif;
+    color: burlywood;
+    margin:20px;
+    }
+    
+    label{
+    color: rgb(255, 255, 255);
+    }
+    
+    p{
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 20px;
+    }
+     
+.box{
+    width: 500px;
+    height: 30px;
+    border-radius: 20px;
+}
+
+.description{
+    border-radius: 20px;
+    height: 30px;
+}
+
+.submit{
+    padding: 10px 20px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left:200px;
+    margin-right: 200px;
+    background-color: rgba(243, 12, 243, 0.5);
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    font-size: large;
+}
+
+.container{display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border: 1px solid black;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    align-items: center;
+    border-radius: 20px;
+    margin: 90px;
+}
